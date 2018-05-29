@@ -2,7 +2,11 @@
 
 ##My first django project
 
-##Installation
+___
+
+###Installation
+
+___
 
 You need python, django, postgresql
 
@@ -15,4 +19,8 @@ postegresql : pip install postegresql
 you need install to a library of postegresql for run the server:
 psycopg2 : pip install psycopg2
 
-Welcome in my program
+###Information on my program
+
+___
+
+My web app go to an python dictionnary and read information
