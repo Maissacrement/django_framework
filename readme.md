@@ -1,10 +1,10 @@
 # django_framework
 
-##My first django project
+## My first django project
 
 ___
 
-###Installation
+### Installation
 
 ___
 
@@ -19,7 +19,7 @@ postegresql : pip install postegresql
 you need install to a library of postegresql for run the server:
 psycopg2 : pip install psycopg2
 
-###Information on my program
+### Information on my program
 
 ___
 
